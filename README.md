@@ -16,14 +16,6 @@ Soy economista egresado de la **Universidad Piloto de Colombia**, actualmente cu
 
 ---
 
-## 🛠️ Herramientas y Tecnologías  
-💡 **Lenguajes:** Python, R, Stata, DAX, VBA  
-📊 **Análisis y BI:** Power BI, Excel BI, Bloomberg Terminal  
-📍 **Geoespacial:** ArcGIS  
-📈 **Modelado:** Econometría, Series de Tiempo, Machine Learning  
-
----
-
 ## 📫 Conéctate conmigo  
 💼 [LinkedIn](https://www.linkedin.com/in/jg-sandoval/)  
 📧 **Correo:** j.sandovale09@gmail.com  
